@@ -1,14 +1,14 @@
 # Programmable_m6A_modification_of_cellular_RNA_with_a_Cas13-directed_methyltransferase
 
-##meRIP-seq
+## meRIP-seq
 
-###Trim Reads:
+### Trim Reads:
 
-###Align Reads:
+### Align Reads:
 
-###meTDiff:
+### meTDiff:
 
-###Visualization:
+### Visualization:
 
-##RT-qPCR
+## RT-qPCR with R 
 
