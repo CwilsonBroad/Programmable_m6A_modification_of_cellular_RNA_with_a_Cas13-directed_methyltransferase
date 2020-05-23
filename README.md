@@ -4,10 +4,6 @@ Scripts are designed for use on the Cannon High Performance Computing Cluster at
 
 ## meRIP-seq
 
-### Trim Reads:
-
-Run TrimGalore.sh
-
 ### Align Reads:
 
 Run HISAT2.sh
