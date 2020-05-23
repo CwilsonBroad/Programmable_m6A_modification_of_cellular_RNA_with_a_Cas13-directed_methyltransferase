@@ -8,6 +8,8 @@ Scripts are designed for use on the Cannon High Performance Computing Cluster at
 
 ### Align Reads:
 
+Run HISAT2.sh
+
 ### meTDiff:
 
 ### Visualization:
