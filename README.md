@@ -6,13 +6,18 @@ Scripts are designed for use on the Cannon High Performance Computing Cluster at
 
 ### Trim Reads:
 
+Run TrimGalore.sh
+
 ### Align Reads:
 
 Run HISAT2.sh
 
+### Convert to bams, sort, and index: 
+
+Run SortIndex.sh
+
 ### meTDiff:
 
+Run MetDiff.sh
+
 ### Visualization:
-
-## RT-qPCR with R 
-
