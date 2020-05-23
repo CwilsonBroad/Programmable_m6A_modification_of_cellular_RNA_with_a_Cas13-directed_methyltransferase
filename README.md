@@ -20,4 +20,3 @@ Run SortIndex.sh
 
 Run MetDiff.sh
 
-### Visualization:
